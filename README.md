@@ -13,4 +13,4 @@
 📫 Feel free to reach out to me here or connect with me on [LinkedIn]: https://www.linkedin.com/in/jesujuwonlo-j-j-oluwasere-630659168/
 
 
-Technical Skills: Python, SQL (MySQL), HTML, AWS, Linux, Git, CI/CD (Jenkins), Docker, Kubernetes.
+Technical Skills: Python, SQL (MySQL), HTML, AWS, Linux, Git, CI/CD (GitHub Actions), Docker, Kubernetes, Terraform.
