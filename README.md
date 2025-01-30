@@ -1,7 +1,7 @@
 👋 Hi, I’m @jjoluwasere
 
 
-👀 I’m passionate about cloud engineering and and software development. My background in finance has honed my analytical and problem-solving skills, which I now apply to the field of cloud infrastructure and automation.
+👀 I’m passionate about the cloud engineering and and software development. My background in finance has honed my analytical and problem-solving skills, which I now apply to the field of cloud infrastructure and automation.
 
 
 🌱 I’m currently expanding my skills in AWS, CI/CD, and containerization using Docker and Kubernetes. I’m also sharpening my technical expertise in Python, SQL (MySQL), and Linux, with hands-on projects focused on building scalable cloud solutions.
