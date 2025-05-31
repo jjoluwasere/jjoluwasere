@@ -1,16 +1,13 @@
 👋 Hi, I’m @jjoluwasere
 
 
-👀 I’m passionate about the cloud engineering and and software development. My background in finance has honed my analytical and problem-solving skills, which I now apply to the field of cloud infrastructure and automation.
+👀 Technical skills: Python, Linux, SQL(MySQL), Git, Terraform, Docker, CI/CD.
+Currently learning: Java.
+
+A DevOps Engineer with a strong background in cloud infrastructure, automation, and financial systems optimisation. Proficient in Linux, Python, SQL. Combining a foundation in accounting and strong computer science fundamentals, offering a blend of financial insight and technical expertise.
+
+Experience designing CI/CD pipelines, containerised applications, and improving observability through monitoring and alerting. Bringing a software engineering mindset to cloud operations, streamlining development workflows and building resilient platforms.
+
+📫 Feel free to reach out to me here or connect with me on [LinkedIn]: https://www.linkedin.com/in/jesujuwonlo-j-j-oluwasere-630659168
 
 
-🌱 I’m currently expanding my skills in AWS, CI/CD, and containerization using Docker and Kubernetes. I’m also sharpening my technical expertise in Python, SQL (MySQL), and Linux, with hands-on projects focused on building scalable cloud solutions.
-
-
-💞️ I’m looking to collaborate on projects related to cloud infrastructure, data analysis, and automation. I enjoy working with like-minded individuals to create efficient, scalable solutions that enhance organizational performance.
-
-
-📫 Feel free to reach out to me here or connect with me on [LinkedIn]: https://www.linkedin.com/in/jesujuwonlo-j-j-oluwasere-630659168/
-
-
-Technical Skills: Python, SQL (MySQL), HTML, AWS, Linux, Git, CI/CD (GitHub Actions), Docker, Kubernetes, Terraform.
