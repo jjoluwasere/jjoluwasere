@@ -1,13 +1,16 @@
 👋 Hi, I’m @jjoluwasere
 
+💻 DevOps Engineer | Automation & Infrastructure as Code | Finance-Aware Technologist
 
-👀 Technical skills: Python, Linux, SQL(MySQL), Git, Terraform, Docker, CI/CD.
-Currently learning: Java.
+I’m a DevOps Engineer with a strong focus on systems automation, infrastructure as code, and scalable cloud-native architectures. With a background in Computer Science and Accounting and Finance, I bring a unique blend of business insight and technical expertise to my work—especially in cost-sensitive, data-driven environments.
 
-A DevOps Engineer with a strong background in cloud infrastructure, automation, and financial systems optimisation. Proficient in Linux, Python, SQL. Combining a foundation in accounting and strong computer science fundamentals, offering a blend of financial insight and technical expertise.
+I specialise in building CI/CD pipelines, automating infrastructure using tools like Terraform and Docker, and enhancing observability through monitoring and alerting. I apply software engineering principles to operations, writing clean, maintainable code to provision, secure, and scale infrastructure.
 
-Experience designing CI/CD pipelines, containerised applications, and improving observability through monitoring and alerting. Bringing a software engineering mindset to cloud operations, streamlining development workflows and building resilient platforms.
+Technical skills: Terraform, Docker, GitHub Actions, Python, Linux, SQL (MySQL), AWS, CI/CD.
 
-📫 Feel free to reach out to me here or connect with me on [LinkedIn]: https://www.linkedin.com/in/jesujuwonlo-j-j-oluwasere-630659168
+Currently exploring: Java, Kubernetes, event-driven architectures, infrastructure security automation.
 
+I’m particularly passionate about using DevOps to drive innovation in financial systems—automating deployments, improving compliance, and helping organisations deliver secure, cost-effective platforms.
 
+Feel free to connect with me on LinkedIn or reach out here.
+https://www.linkedin.com/in/jesujuwonlo
